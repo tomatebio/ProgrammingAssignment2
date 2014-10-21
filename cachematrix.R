@@ -1,4 +1,4 @@
-## This functions calculate the inverse matrix and caching the return
+
 
 ## create a special matrix and cache the inverse
 
